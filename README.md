@@ -13,6 +13,10 @@
 
 <br/>
 👩‍💻 Technologies
+<br/>
+ <img src="https://img.shields.io/badge/OS-Linux-green">  <img src="https://img.shields.io/badge/skill-MongoDB-green">  <img src="https://img.shields.io/badge/skill-NodeJS-green">  <img src="https://img.shields.io/badge/skill-ReactJS-green"> <img src="https://img.shields.io/badge/skill-ExpressJS-green">  <img src="https://img.shields.io/badge/skill-Javascript-green"> <img src="https://img.shields.io/badge/skill-HTML-green">  <img src="https://img.shields.io/badge/skill-CSS-green"> <img src="https://img.shields.io/badge/tools-Git-green">  <img src="https://img.shields.io/badge/tools-Docker-green">
+
+
 
 
 
