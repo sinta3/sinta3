@@ -11,7 +11,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinta3&theme=vue" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sinta3&show_icons=true&theme=vue)" />
-[](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=badges&logoColor=white&color=2bbc8a)
+
+👩‍💻 Technologies
+[](https://img.shields.io/badge/OS-Linux-blue)
 
 
 
