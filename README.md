@@ -8,8 +8,8 @@
  ✨ feel free to contact me on sinta.tri38@gmail.com.<br/>
  ⚡ Fun fact: i like spicy, but i cry everytime eat this kind of food.<br/>
 
-<img align="top-lpeft" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinta3&theme=vue" />
-<img align="top-right" src="https://github-readme-stats.vercel.app/api?username=sinta3&show_icons=true&theme=vue)" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinta3&theme=vue" /> <img align="right" src="https://github-readme-stats.vercel.app/api?username=sinta3&show_icons=true&theme=vue)" />
+
 
 <br/>
 👩‍💻 Technologies
