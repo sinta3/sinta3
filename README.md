@@ -1,7 +1,6 @@
 ### Hi People <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <img src="https://res.cloudinary.com/dwusfivop/image/upload/v1600098336/Group_1_1_cevshi.png">
 
- 🔭 I’m currently working at Tamtech International as Back End Engineer <br/>
  🌱 I love to learn about Javascript and framework based on it.<br/>
  🔥 I’m looking to collaborate on any projects that can help others.<br/>
  💬 You can ask me about everything.<br/>
